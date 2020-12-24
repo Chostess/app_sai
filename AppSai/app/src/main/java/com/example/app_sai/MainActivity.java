@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
     FloatingActionButton fab_add, fab_eye, fab_level, fab_checkerboard, fab_othello;
     Animation fabOpen, fabClose, fabRClockwise, fabRAntiClockwise;
     boolean isOpen = false;
-
+//fuck
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
